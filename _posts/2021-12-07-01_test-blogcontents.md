@@ -2,7 +2,8 @@
 layout: post
 title: 테스트 콘텐츠
 subtitle: test insert post
-share-img: /assets/img/path_2.jpg
+cover-img: /assets/img/icon_dog_3.PNG
+share-img: /assets/img/path_3.jpg
 ---
 
 <!-- cover-img: /assets/img/path_2.jpg -->
