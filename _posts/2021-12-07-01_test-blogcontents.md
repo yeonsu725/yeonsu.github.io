@@ -2,10 +2,10 @@
 layout: post
 title: 테스트 콘텐츠
 subtitle: test insert post
-cover-img: /assets/img/path_2.jpg
-share-img: /assets/img/path_1.jpg
+share-img: /assets/img/path_2.jpg
 ---
 
+<!-- cover-img: /assets/img/path_2.jpg -->
 ## 내용 확인
 * 글이 잘 올라가는지 확인하는 페이지 입니다
 * [네이버링크](http://www.naver.com)
