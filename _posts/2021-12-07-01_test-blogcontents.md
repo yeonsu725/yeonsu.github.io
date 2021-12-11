@@ -2,6 +2,7 @@
 layout: post
 title: 테스트 콘텐츠
 subtitle: test insert post
+cover-img: /assets/img/path_1.jpg
 share-img: /assets/img/path_1.jpg
 ---
 
